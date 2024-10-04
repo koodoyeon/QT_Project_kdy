@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f9dfddda9a6715bd2d43cd68d7446384 CMakeFiles/Solitaire_autogen

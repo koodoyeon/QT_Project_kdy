@@ -1,0 +1,4 @@
+/home/dy/Desktop/Qt_project/build-Solitaire-Desktop-Debug/CMakeFiles/Solitaire.dir
+/home/dy/Desktop/Qt_project/build-Solitaire-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dy/Desktop/Qt_project/build-Solitaire-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dy/Desktop/Qt_project/build-Solitaire-Desktop-Debug/CMakeFiles/Solitaire_autogen.dir
